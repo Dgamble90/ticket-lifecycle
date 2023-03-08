@@ -26,14 +26,12 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Resolution
 
 <h2>Configuration Steps</h2>
+Ken is creating a ticket, the help topic is "Business Critical Outage" because customers are reporting that they cannot access mobile banking
 
-<p>
 <img src="https://i.imgur.com/D8NuckT.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<p>Ken is creating a ticket, the help topic is "Business Critical Outage" because customers are reporting that they cannot access mobile banking
-  
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+
+</p>Agents will be able to see live tickets in the agent panel. Queue managers will assign priority tickets to the appropriate agents as well as assigning proper SLAs. 
 <br />
 
 <p>
